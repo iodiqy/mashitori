@@ -1,4 +1,4 @@
 # mashitori
 just for fun.
 
-inspect here.
+[inspect here.](google.com)
