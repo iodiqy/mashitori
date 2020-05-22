@@ -1,0 +1,661 @@
+[14.05.2020 11:55:33] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 11:57:16] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 11:57:16] bot.py:57 INFO - Previous last_id is 2187324
+[14.05.2020 11:57:16] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 11:57:16] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 11:57:16] bot.py:97 INFO - [App] Script went to sleep.
+[14.05.2020 11:58:25] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 11:58:25] bot.py:57 INFO - Previous last_id is 2187186
+[14.05.2020 11:58:25] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 11:58:25] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 11:58:25] bot.py:97 INFO - [App] Script went to sleep.
+[14.05.2020 11:59:14] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 11:59:14] bot.py:57 INFO - Previous last_id is 2187186
+[14.05.2020 11:59:15] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 11:59:15] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 11:59:15] bot.py:101 INFO - [App] Script exited.
+
+[14.05.2020 11:59:42] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 11:59:42] bot.py:57 INFO - Previous last_id is 2187186
+[14.05.2020 11:59:43] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 11:59:43] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 11:59:43] bot.py:97 INFO - [App] Script went to sleep.
+[14.05.2020 12:03:43] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 12:03:43] bot.py:57 INFO - Previous last_id is 2187186
+[14.05.2020 12:03:43] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 12:03:43] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 12:03:43] bot.py:97 INFO - [App] Script went to sleep.
+[14.05.2020 12:03:47] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 12:03:47] bot.py:57 INFO - Previous last_id is 2187186
+[14.05.2020 12:03:48] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 12:03:48] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 12:03:48] bot.py:97 INFO - [App] Script went to sleep.
+[14.05.2020 12:07:48] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 12:07:48] bot.py:57 INFO - Previous last_id is 2187186
+[14.05.2020 12:07:48] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 12:07:48] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 12:07:48] bot.py:97 INFO - [App] Script went to sleep.
+[14.05.2020 12:11:48] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 12:11:48] bot.py:57 INFO - Previous last_id is 2187186
+[14.05.2020 12:11:49] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 12:11:49] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 12:11:49] bot.py:97 INFO - [App] Script went to sleep.
+[14.05.2020 12:15:49] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 12:15:49] bot.py:57 INFO - Previous last_id is 2187186
+[14.05.2020 12:15:49] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 12:15:49] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 12:15:49] bot.py:97 INFO - [App] Script went to sleep.
+[14.05.2020 12:18:15] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 12:18:15] bot.py:57 INFO - Previous last_id is 2187186
+[14.05.2020 12:18:15] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 12:18:15] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 12:18:15] bot.py:97 INFO - [App] Script went to sleep.
+[14.05.2020 12:21:18] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 12:21:18] bot.py:57 INFO - Previous last_id is 2187186
+[14.05.2020 12:21:18] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 12:21:18] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 12:21:18] bot.py:97 INFO - [App] Script went to sleep.
+[14.05.2020 12:21:34] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 12:21:34] bot.py:57 INFO - Previous last_id is 2187186
+[14.05.2020 12:21:35] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 12:21:35] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 12:21:35] bot.py:97 INFO - [App] Script went to sleep.
+[14.05.2020 12:22:06] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 12:22:06] bot.py:57 INFO - Previous last_id is 2187186
+[14.05.2020 12:22:06] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 12:22:06] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 12:22:06] bot.py:97 INFO - [App] Script went to sleep.
+[14.05.2020 12:22:22] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 12:22:22] bot.py:57 INFO - Previous last_id is 2187186
+[14.05.2020 12:22:23] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 12:22:23] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 12:22:23] bot.py:97 INFO - [App] Script went to sleep.
+[14.05.2020 12:24:03] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 12:24:03] bot.py:57 INFO - Previous last_id is 2187186
+[14.05.2020 12:24:03] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 12:24:03] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 12:24:03] bot.py:97 INFO - [App] Script went to sleep.
+[14.05.2020 12:24:05] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 12:24:05] bot.py:57 INFO - Previous last_id is 2187186
+[14.05.2020 12:24:05] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 12:24:05] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 12:24:05] bot.py:97 INFO - [App] Script went to sleep.
+[14.05.2020 12:28:06] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 12:28:06] bot.py:57 INFO - Previous last_id is 2187186
+[14.05.2020 12:28:06] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 12:28:06] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 12:28:06] bot.py:97 INFO - [App] Script went to sleep.
+[14.05.2020 12:34:22] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 12:34:22] bot.py:57 INFO - Previous last_id is 2187186
+[14.05.2020 12:34:22] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 12:34:22] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 12:34:22] bot.py:97 INFO - [App] Script went to sleep.
+[14.05.2020 12:36:29] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 12:36:29] bot.py:57 INFO - Previous last_id is 2187186
+[14.05.2020 12:36:29] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 12:36:29] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 12:36:29] bot.py:97 INFO - [App] Script went to sleep.
+[14.05.2020 12:36:58] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 12:36:58] bot.py:57 INFO - Previous last_id is 2187186
+[14.05.2020 12:37:01] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 12:37:01] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 12:37:01] bot.py:97 INFO - [App] Script went to sleep.
+[14.05.2020 15:20:21] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 15:20:21] bot.py:57 INFO - Previous last_id is 3
+[14.05.2020 15:20:21] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 15:20:21] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 15:20:21] bot.py:96 INFO - [App] Script went to sleep.
+[14.05.2020 15:22:01] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 15:22:01] bot.py:57 INFO - Previous last_id is 1252185
+[14.05.2020 15:22:01] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 15:22:01] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 15:22:01] bot.py:96 INFO - [App] Script went to sleep.
+[14.05.2020 15:22:05] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 15:22:05] bot.py:57 INFO - Previous last_id is 1252185
+[14.05.2020 15:22:06] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 15:22:06] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 15:22:06] bot.py:96 INFO - [App] Script went to sleep.
+[14.05.2020 15:24:10] bot.py:50 INFO - [VK] Started scanning for new posts
+[14.05.2020 15:24:10] bot.py:56 INFO - Previous last_id is 1252185
+[14.05.2020 15:24:10] bot.py:80 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[14.05.2020 15:24:10] bot.py:82 INFO - [VK] Finished scanning
+[14.05.2020 15:24:10] bot.py:95 INFO - [App] Script went to sleep.
+[14.05.2020 15:26:53] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 15:26:53] bot.py:57 INFO - Previous last_id is 1252185
+[14.05.2020 15:26:53] bot.py:81 ERROR - Exception of type TypeError in check_new_post(): unhashable type: 'slice'
+[14.05.2020 15:26:53] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 15:26:53] bot.py:96 INFO - [App] Script went to sleep.
+[14.05.2020 15:53:40] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 15:53:40] bot.py:57 INFO - Previous last_id is 1252185
+[14.05.2020 15:53:42] bot.py:81 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 403 Forbidden. Response body:
+[b'{"ok":false,"error_code":403,"description":"Forbidden: bot is not a member of the channel chat"}']
+[14.05.2020 15:53:42] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 15:53:42] bot.py:96 INFO - [App] Script went to sleep.
+[14.05.2020 15:57:42] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 15:57:42] bot.py:57 INFO - Previous last_id is 1252185
+[14.05.2020 15:57:43] bot.py:81 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 403 Forbidden. Response body:
+[b'{"ok":false,"error_code":403,"description":"Forbidden: bot is not a member of the channel chat"}']
+[14.05.2020 15:57:43] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 15:57:43] bot.py:96 INFO - [App] Script went to sleep.
+[14.05.2020 16:10:16] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 16:10:16] bot.py:57 INFO - Previous last_id is 1252185
+[14.05.2020 16:10:17] bot.py:81 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 403 Forbidden. Response body:
+[b'{"ok":false,"error_code":403,"description":"Forbidden: bot is not a member of the channel chat"}']
+[14.05.2020 16:10:17] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 16:10:17] bot.py:96 INFO - [App] Script went to sleep.
+[14.05.2020 16:10:38] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 16:10:38] bot.py:57 INFO - Previous last_id is 1252185
+[14.05.2020 16:10:39] bot.py:81 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 403 Forbidden. Response body:
+[b'{"ok":false,"error_code":403,"description":"Forbidden: bot is not a member of the channel chat"}']
+[14.05.2020 16:10:39] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 16:10:39] bot.py:96 INFO - [App] Script went to sleep.
+[14.05.2020 16:10:51] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 16:10:51] bot.py:57 INFO - Previous last_id is 1252185
+[14.05.2020 16:10:53] bot.py:81 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 403 Forbidden. Response body:
+[b'{"ok":false,"error_code":403,"description":"Forbidden: bot is not a member of the channel chat"}']
+[14.05.2020 16:10:53] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 16:10:53] bot.py:96 INFO - [App] Script went to sleep.
+[14.05.2020 16:12:00] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 16:12:00] bot.py:57 INFO - Previous last_id is 1252185
+[14.05.2020 16:12:00] bot.py:81 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 403 Forbidden. Response body:
+[b'{"ok":false,"error_code":403,"description":"Forbidden: bot is not a member of the channel chat"}']
+[14.05.2020 16:12:00] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 16:12:00] bot.py:96 INFO - [App] Script went to sleep.
+[14.05.2020 16:14:29] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 16:14:29] bot.py:57 INFO - Previous last_id is 1252185
+[14.05.2020 16:14:30] bot.py:81 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 403 Forbidden. Response body:
+[b'{"ok":false,"error_code":403,"description":"Forbidden: bot is not a member of the channel chat"}']
+[14.05.2020 16:14:30] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 16:14:30] bot.py:96 INFO - [App] Script went to sleep.
+[14.05.2020 16:23:33] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 16:23:33] bot.py:57 INFO - Previous last_id is 1252185
+[14.05.2020 16:24:02] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 16:24:02] bot.py:57 INFO - Previous last_id is 1252185
+[14.05.2020 16:24:09] bot.py:79 INFO - New last_id (VK) is 1252199
+[14.05.2020 16:24:09] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 16:24:09] bot.py:96 INFO - [App] Script went to sleep.
+[14.05.2020 16:25:34] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 16:25:34] bot.py:57 INFO - Previous last_id is 1
+[14.05.2020 16:25:34] bot.py:81 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[14.05.2020 16:25:34] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 16:25:34] bot.py:96 INFO - [App] Script went to sleep.
+[14.05.2020 16:27:25] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 16:27:25] bot.py:57 INFO - Previous last_id is 6333727
+[14.05.2020 16:27:33] bot.py:79 INFO - New last_id (VK) is 6335591
+[14.05.2020 16:27:33] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 16:27:33] bot.py:96 INFO - [App] Script went to sleep.
+[14.05.2020 16:31:33] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 16:31:33] bot.py:57 INFO - Previous last_id is 6335591
+[14.05.2020 16:31:33] bot.py:79 INFO - New last_id (VK) is 6335591
+[14.05.2020 16:31:33] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 16:31:33] bot.py:96 INFO - [App] Script went to sleep.
+[14.05.2020 16:35:33] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 16:35:33] bot.py:57 INFO - Previous last_id is 6335591
+[14.05.2020 16:35:33] bot.py:79 INFO - New last_id (VK) is 6335591
+[14.05.2020 16:35:33] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 16:35:33] bot.py:96 INFO - [App] Script went to sleep.
+[14.05.2020 16:35:56] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 16:35:56] bot.py:57 INFO - Previous last_id is 2187664
+[14.05.2020 16:35:56] bot.py:79 INFO - New last_id (VK) is 2187664
+[14.05.2020 16:35:56] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 16:35:56] bot.py:96 INFO - [App] Script went to sleep.
+[14.05.2020 16:37:07] bot.py:51 INFO - [VK] Started scanning for new posts
+[14.05.2020 16:37:07] bot.py:57 INFO - Previous last_id is 2187324
+[14.05.2020 16:37:15] bot.py:79 INFO - New last_id (VK) is 2187664
+[14.05.2020 16:37:15] bot.py:83 INFO - [VK] Finished scanning
+[14.05.2020 16:37:15] bot.py:96 INFO - [App] Script went to sleep.
+[16.05.2020 16:25:48] bot.py:51 INFO - [VK] Started scanning for new posts
+[16.05.2020 16:25:48] bot.py:57 INFO - Previous last_id is 2187664
+[22.05.2020 11:30:47] util.py:68 ERROR - UnboundLocalError occurred, args=("local variable 'points' referenced before assignment",)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "for_test.py", line 43, in repeat_all_messages
+    bot.send_message(message.chat.id, points)
+UnboundLocalError: local variable 'points' referenced before assignment
+
+[22.05.2020 11:31:28] util.py:68 ERROR - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 281, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 251, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 199, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 65, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 84, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+[22.05.2020 11:32:28] util.py:68 ERROR - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 281, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 251, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 199, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 65, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 84, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+[22.05.2020 11:32:39] util.py:68 ERROR - AttributeError occurred, args=("'_sre.SRE_Match' object has no attribute 'split'",)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "for_test.py", line 35, in repeat_all_messages
+    login, password = matches.split()
+AttributeError: '_sre.SRE_Match' object has no attribute 'split'
+
+[22.05.2020 11:33:45] util.py:68 ERROR - AttributeError occurred, args=("'NoneType' object has no attribute 'split'",)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "for_test.py", line 35, in repeat_all_messages
+    login, password = matches.split()
+AttributeError: 'NoneType' object has no attribute 'split'
+
+[22.05.2020 11:34:02] util.py:68 ERROR - AttributeError occurred, args=("'NoneType' object has no attribute 'split'",)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "for_test.py", line 35, in repeat_all_messages
+    login, password = matches.split()
+AttributeError: 'NoneType' object has no attribute 'split'
+
+[22.05.2020 11:34:25] util.py:68 ERROR - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 281, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 251, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 199, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 65, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 84, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+[22.05.2020 11:35:56] util.py:68 ERROR - AttributeError occurred, args=("'NoneType' object has no attribute 'split'",)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "for_test.py", line 35, in repeat_all_messages
+    login, password = matches.split()
+AttributeError: 'NoneType' object has no attribute 'split'
+
+[22.05.2020 11:36:11] util.py:68 ERROR - AttributeError occurred, args=("'_sre.SRE_Match' object has no attribute 'split'",)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "for_test.py", line 35, in repeat_all_messages
+    login, password = matches.split()
+AttributeError: '_sre.SRE_Match' object has no attribute 'split'
+
+[22.05.2020 11:36:55] util.py:68 ERROR - AttributeError occurred, args=("'_sre.SRE_Match' object has no attribute 'split'",)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "for_test.py", line 35, in repeat_all_messages
+    login, password = matches.split()
+AttributeError: '_sre.SRE_Match' object has no attribute 'split'
+
+[22.05.2020 11:37:56] util.py:68 ERROR - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 281, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 251, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 199, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 65, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 84, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+[22.05.2020 11:38:04] util.py:68 ERROR - AttributeError occurred, args=("'_sre.SRE_Match' object has no attribute 'split'",)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "for_test.py", line 35, in repeat_all_messages
+    login, password = matches.split()
+AttributeError: '_sre.SRE_Match' object has no attribute 'split'
+
+[22.05.2020 11:39:15] util.py:68 ERROR - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:\n[b\'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}\']',)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "for_test.py", line 44, in repeat_all_messages
+    bot.send_message(message.chat.id, points)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 625, in send_message
+    reply_markup, parse_mode, disable_notification, timeout))
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 159, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 65, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 84, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}']
+
+[22.05.2020 11:39:15] __init__.py:443 ERROR - A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}']
+[22.05.2020 11:39:30] util.py:68 ERROR - AttributeError occurred, args=("'NoneType' object has no attribute 'group'",)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "for_test.py", line 35, in repeat_all_messages
+    login, password = matches.group().split()
+AttributeError: 'NoneType' object has no attribute 'group'
+
+[22.05.2020 11:40:30] util.py:68 ERROR - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 281, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 251, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 199, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 65, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 84, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+[22.05.2020 11:40:42] util.py:68 ERROR - AttributeError occurred, args=("'NoneType' object has no attribute 'group'",)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "for_test.py", line 34, in repeat_all_messages
+    login, password = matches.group().split()
+AttributeError: 'NoneType' object has no attribute 'group'
+
+[22.05.2020 11:41:23] util.py:68 ERROR - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 281, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 251, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 199, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 65, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 84, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+[22.05.2020 11:41:43] util.py:68 ERROR - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 281, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 251, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 199, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 65, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 84, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+[22.05.2020 11:42:03] util.py:68 ERROR - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 281, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 251, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 199, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 65, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 84, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+[22.05.2020 11:42:43] util.py:68 ERROR - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 281, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 251, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 199, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 65, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 84, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+[22.05.2020 11:43:43] util.py:68 ERROR - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 281, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 251, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 199, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 65, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 84, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+[22.05.2020 11:44:23] util.py:68 ERROR - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 281, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 251, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 199, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 65, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 84, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+[22.05.2020 11:45:23] util.py:68 ERROR - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 281, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 251, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 199, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 65, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 84, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+[22.05.2020 11:46:13] util.py:68 ERROR - AttributeError occurred, args=("'NoneType' object has no attribute 'group'",)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "for_test.py", line 34, in repeat_all_messages
+    login, password = matches.group().split()
+AttributeError: 'NoneType' object has no attribute 'group'
+
+[22.05.2020 11:46:55] util.py:68 ERROR - AttributeError occurred, args=("'NoneType' object has no attribute 'group'",)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "for_test.py", line 34, in repeat_all_messages
+    login, password = matches.group().split()
+AttributeError: 'NoneType' object has no attribute 'group'
+
+[22.05.2020 11:47:34] util.py:68 ERROR - AttributeError occurred, args=("'NoneType' object has no attribute 'group'",)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "for_test.py", line 35, in repeat_all_messages
+    login, password = matches.group().split()
+AttributeError: 'NoneType' object has no attribute 'group'
+
+[22.05.2020 11:48:15] util.py:68 ERROR - AttributeError occurred, args=("'NoneType' object has no attribute 'group'",)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "for_test.py", line 35, in repeat_all_messages
+    login, password = matches.group().split()
+AttributeError: 'NoneType' object has no attribute 'group'
+
+[22.05.2020 11:49:36] util.py:68 ERROR - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 281, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 251, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 199, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 65, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 84, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+[22.05.2020 11:50:16] util.py:68 ERROR - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 281, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 251, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 199, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 65, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 84, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+[22.05.2020 11:50:35] util.py:68 ERROR - AttributeError occurred, args=("'NoneType' object has no attribute 'group'",)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "for_test.py", line 35, in repeat_all_messages
+    login, password = matches.group().split()
+AttributeError: 'NoneType' object has no attribute 'group'
+
+[22.05.2020 11:51:04] util.py:68 ERROR - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:\n[b\'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}\']',)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "for_test.py", line 43, in repeat_all_messages
+    bot.send_message(message.chat.id, points)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 625, in send_message
+    reply_markup, parse_mode, disable_notification, timeout))
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 159, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 65, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 84, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}']
+
+[22.05.2020 11:51:15] __init__.py:443 ERROR - A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}']
+[22.05.2020 11:53:55] util.py:68 ERROR - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:\n[b\'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}\']',)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "for_test.py", line 44, in repeat_all_messages
+    bot.send_message(message.chat.id, points)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 625, in send_message
+    reply_markup, parse_mode, disable_notification, timeout))
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 159, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 65, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 84, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}']
+
+[22.05.2020 11:53:55] __init__.py:443 ERROR - A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}']
+[22.05.2020 11:54:12] util.py:68 ERROR - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:\n[b\'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}\']',)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "for_test.py", line 44, in repeat_all_messages
+    bot.send_message(message.chat.id, points)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 625, in send_message
+    reply_markup, parse_mode, disable_notification, timeout))
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 159, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 65, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 84, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}']
+
+[22.05.2020 11:54:12] __init__.py:443 ERROR - A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}']
+[22.05.2020 11:54:56] util.py:68 ERROR - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:\n[b\'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}\']',)
+Traceback (most recent call last):
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/util.py", line 62, in run
+    task(*args, **kwargs)
+  File "for_test.py", line 44, in repeat_all_messages
+    bot.send_message(message.chat.id, points)
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/__init__.py", line 625, in send_message
+    reply_markup, parse_mode, disable_notification, timeout))
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 159, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 65, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/iodiqy/PycharmProjects/webhookGroosha/venv/lib/python3.6/site-packages/telebot/apihelper.py", line 84, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}']
+
+[22.05.2020 11:54:56] __init__.py:443 ERROR - A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}']
